@@ -1,5 +1,5 @@
 # Hi, I'm Letsatsi Matlala
-### Data Analyst | Junior Data Engineer | Web developer | SQL . Python . Databricks . Excel . Power BI <br>
+### Junior Data Engineer | Data Analyst | Web developer | SQL . Python . Databricks . Excel . Power BI <br>
 ## About Me:
 <br>I have a solid foundation in Data Engineering and Web development, I have spent time going beyond the code to understand how data flows, how systems are built to handle it at scale, and how the right pipeline can turn raw information into real decisions. I have backed that curiosity with hands-on projects and coursework that have sharpened my skills in data engineering concepts, tools, and thinking,The projects i have worked on focuses on turning raw data into structured dataset and ready for decision making, business analysis and reporting<br> <br>I am currently open to opportunities where I can bring my data engineering skills and web development background into a data-focused role,
 ## 🌐 Socials:
