@@ -1,4 +1,4 @@
-# Hi I'm Letsatsi Matlala
+#                   Hi, I'm Letsatsi Matlala
 ### Data Analyst | Junior Data Engineer | Web developer SQL. Python . Databricks <br>
 ## About Me:
 <br>With a solid foundation in Data Engineering and Web development, I have spent time going beyond the code to understand how data flows, how systems are built to handle it at scale, and how the right pipeline can turn raw information into real decisions. I have backed that curiosity with hands-on projects and coursework that have sharpened my skills in data engineering concepts, tools, and thinking.<br> <br>I am currently open to opportunities where I can bring my data engineering skills and web development background into a data-focused role,
